@@ -43,3 +43,7 @@ git clone https://github.com/Cookie1NuNa : 코드 저장소로부터 코드를 �
 
 
 
++ 응용학습 / 메모장내용추가해서 코드저장소에 업로드하기!
+
+git status
+git add . -> git status -> git commot -m '커밋로그' -> git push orgin master
