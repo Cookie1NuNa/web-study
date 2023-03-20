@@ -22,3 +22,24 @@ git remote add origin https://github.com/Cookie1NuNa/web-study.git
 
 
 외출갔다와서 다시 해야겠당.
+
+
+03-14
+
+
+복습) 명령어 정리
+
+mkdir 폴더명 : 폴더생성
+re -rf 폴더명 또는 파일명 : 삭제(바로 삭제함)
+
+
+깃허브명령어
+
+git add .햣 : 코드를 업로드 할 준비
+git commit -m '메세지' : 코드를 코드저장소에 업로드 할때 보낼 메세지 까지 준비
+git push origin master : 마스터계정(나)에 코드 업로드
+
+git clone https://github.com/Cookie1NuNa : 코드 저장소로부터 코드를 컴퓨터로 내려받을 때
+
+
+
